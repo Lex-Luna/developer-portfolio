@@ -88,7 +88,8 @@ function ContactForm() {
             />
             {error.email && <p className="text-sm text-red-400">Please provide a valid email!</p>}
           </div>
-
+               
+               
           <div className="flex flex-col gap-2">
             <label className="text-base">Your Message: </label>
             <textarea
