@@ -14,6 +14,8 @@
 
 ---
 
+# Los cambios personales se haces desde el archivo personal-data.js
+
 # Demo :movie_camera:
 
 ![](./public/image/screen.png)
